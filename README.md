@@ -4,6 +4,6 @@ We present in-vehicle App, iArb’s detection rules, and the corresponding detec
 
 ## In-vehicle App
 
-## iArb detection rules
+## iArb Detection
 
-## iArb detection results
+## iArb Analysis
