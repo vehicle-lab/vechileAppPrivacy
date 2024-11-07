@@ -20,5 +20,5 @@ Here we present the distribution of each iArb under various App categories of th
 
 #### Manufacture-customized in-vehicle Apps
 
-The analysis of the iArb from various angles all derives from this.
+The evaluation of the iArb from various perspectives derives from this.
 
