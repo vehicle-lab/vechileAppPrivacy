@@ -4,7 +4,13 @@ We present in-vehicle App, iArb’s detection rules, and the corresponding detec
 
 ## In-vehicle App
 
-Here we present the 
+Here we present the third-party in-vehicle Apps in detail, including:
+
+* Package name
+
+* SHA256
+
+* APP category
 
 ## iArb Detection
 
