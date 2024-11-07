@@ -14,11 +14,11 @@ Here we present the whole list of the permissions, APIs, and API parameters for 
 
 Here we present the distribution of each iArb under various App categories of the three mainstream sources respectively, including: 
 
-#### Mobile Apps
+* Mobile Apps
 
-#### Third-party in-vehicle Apps
+* Third-party in-vehicle Apps
 
-#### Manufacture-customized in-vehicle Apps
+* Manufacture-customized in-vehicle Apps
 
 The evaluation of the iArb from various perspectives derives from this.
 
