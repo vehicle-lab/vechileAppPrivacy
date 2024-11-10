@@ -4,7 +4,7 @@ We present the "in-vehicle App", "iArb detection", and "iArb analysis" for revie
 
 ## In-vehicle App
 
-Here we present the third-party in-vehicle Apps as representative, including:
+Here we present the third-party in-vehicle App as representative, including:
 
 * Package name
 
